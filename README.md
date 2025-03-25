@@ -35,11 +35,11 @@ This project is a React-based web application that provides an interactive stepp
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/deek-shan-t/interview-stepper
    ```
 2. Navigate to the project folder:
    ```sh
-   cd interview-stepper-app
+   cd interview-stepper
    ```
 3. Install dependencies:
    ```sh
@@ -56,8 +56,8 @@ This project is a React-based web application that provides an interactive stepp
 - Click "Finish" on the last step to complete the process.
 
 ## Screenshots
-(Add screenshots here)
-
+![Alt text](image.png)
+![Alt text](image-1.png)
 ## Deployment
 [Live Demo](#) (Add deployment link here)
 
